@@ -1,0 +1,61 @@
+[
+    {
+        "title":"Basic",
+        "content":[
+            { 
+                "Full Name": "Daniela Carolina Montenegro Pozo",
+                "Birth Date": "29/12/1995",
+                "Current City": "Guayaquil, Ecuador",
+                "From": "Quito, Ecuador"
+            }
+        ]
+    },
+    {
+        "title":"Education",
+        "content":[
+            {
+                "University": "Escuela Superior Politécnica del Litoral",
+                "Degree": "Computer Science",
+                "Class": "2020 - 2",
+                "What I liked from college was...": "challenging projects, leading small subject projects, my friends and the campus cats",
+                "What I didn't like from college was...":"the condescending attitute from some peers or teachers, and the food"
+            }
+        ]
+    },
+    {
+        "title":"Career Oriented",
+        "content":[
+            {
+                "Good at": "Full Stack Web Development - [DB: SQL + Backend: Laravel/Django/Express + Frontend: Vue/Bootstrap]",
+                "Want to learn": "Computer Vision, Cloud Computing, AI",
+                "Currently learning more about": "Cloud Computing: AWS and Azure; Caching: Redis",
+                "Softskills": "Creative, perseverant, patient, can learn fast",
+                "I usually solve complex problems through...":"reading the documentation or books and googling",
+                "I usually work faster when...":"I can organize my time and workload (Autonomy)",
+                "In five years I want to...":"Get a masters degree in Artificial Intelligence, Information Security or Project Management",
+                "In ten years I want to...":"Be a project manager"
+            }
+        ]
+    },
+    {
+        "title":"Personal",
+        "content":[
+            { 
+                "Favorite quote": {
+                    "quote":"“It takes something more than intelligence to act intelligently.”",
+                    "author": "Fyodor Dostoyevsky",
+                    "book":"Crime and Punishment"
+
+                },
+                "When I was a kid I dreamed of becoming...": "An astronaut! I love space!",
+                "If I wasn't a programmer I would be...": "A veterinarian",
+                "Favorite pet": "Cats and very small dogs!",
+                "Favorite wild animal":"Wolves",
+                "Favorite food":"Squid and shrimp ceviche with fried platain chips",
+                "Fears":"Thin Spiders and Tarantulas"
+
+            }
+        ]
+    }
+
+]

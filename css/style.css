@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Josefin+Sans:wght@600&display=swap');
+
+*{
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 400;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.max-300{
+    max-width:300px;
+    height: auto;
+}

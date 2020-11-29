@@ -1,0 +1,61 @@
+[
+    {
+        "title":"Lo básico",
+        "content":[
+            { 
+                "Nombre completo": "Daniela Carolina Montenegro Pozo",
+                "Fecha de nacimiento": "29/12/1995",
+                "Ciudad actual": "Guayaquil, Ecuador",
+                "Soy de": "Quito, Ecuador"
+            }
+        ]
+    },
+    {
+        "title":"Educación",
+        "content":[
+            {
+                "Universidad": "Escuela Superior Politécnica del Litoral",
+                "Título": "Ingeniería en Computación",
+                "Graduación": "2020 - 2",
+                "Lo que me gustó de la universidad...": "proyectos complejos, liderar proyectos pequeños en clases y los gatos del campus.",
+                "Lo que no me gustó de la universidad...":"la actitud condescendiente de algunos compañeros y profesores, además de la comida."
+            }
+        ]
+    },
+    {
+        "title":"Carrera",
+        "content":[
+            {
+                "Soy buena en": "Desarrollo Web Full Stack - [DB: SQL + Backend: Laravel/Django/Express + Frontend: Vue/Bootstrap]",
+                "Quiero aprender": "Visión por computador, Computación en la nube e Inteligencia Artificial.",
+                "Estoy aprendiendo sobre": "Computación en la nube: AWS y Azure; Caching: Redis.",
+                "Actitudes": "Creativa, perseverante, paciente, aprendo rápido.",
+                "Resuelvo problemas a través de...":"leer la documentación o libros, y buscar soluciones en google.",
+                "Trabajo más rápido cuando...":"puedo organizar mi carga de trabajo y el tiempo (autonomía).",
+                "En 5 años quiero...":"obtener un masterado en Inteligencia artifical, Seguridad Informática o Direción de proyectos.",
+                "En 10 años quiero...":"ser directora de proyectos."
+            }
+        ]
+    },
+    {
+        "title":"Personal",
+        "content":[
+            { 
+                "Cita favorita": {
+                    "quote":"“Se requiere algo mas que inteligencia para actuar de forma inteligente.”",
+                    "author": "Fiodor Dostoievski",
+                    "book":"Crimen y Castigo"
+
+                },
+                "Cuando era niña soñaba con ser...": "Astronauta, ¡me gusta el espacio!",
+                "Si no fuese programadora, sería...": "Médico veterinario",
+                "Mascota favorita": "Gatos y perros pequeños",
+                "Animal salvaje favorito":"Lobo",
+                "Comida preferida":"Ceviche de calamar y camarón, con chifles",
+                "Miedos":"Arañas delgadas y Tarántulas"
+
+            }
+        ]
+    }
+
+]
